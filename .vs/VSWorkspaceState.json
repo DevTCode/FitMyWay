@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\healthy",
+    "\\healthy\\lib",
+    "\\healthy\\lib\\authenticate",
+    "\\healthy\\lib\\models",
+    "\\healthy\\lib\\pages",
+    "\\healthy\\lib\\pages\\home",
+    "\\healthy\\lib\\pages\\home\\widgets",
+    "\\healthy\\lib\\reusable_widgets",
+    "\\healthy\\lib\\screens"
+  ],
+  "SelectedNode": "\\healthy\\lib\\main.dart",
+  "PreviewInSolutionExplorer": false
+}
